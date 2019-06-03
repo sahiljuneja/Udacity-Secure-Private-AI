@@ -1,2 +1,4 @@
 
 intro-to-pytorch/\.ipynb_checkpoints/
+
+*.pyc
