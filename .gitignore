@@ -2,3 +2,7 @@
 intro-to-pytorch/\.ipynb_checkpoints/
 
 *.pyc
+
+intro-to-pytorch/Cat_Dog_data\.zip
+
+intro-to-pytorch/Cat_Dog_data
